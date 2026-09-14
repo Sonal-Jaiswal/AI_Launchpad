@@ -32,6 +32,4 @@ streamlit run assignment\Day3-Dictionaries-and-Sets\student_result_app.py
 
 Keep API keys and other local configuration in `.env`; environment files and virtual environments are intentionally ignored by Git.
 
-## Commit history
 
-The repository includes `commit-learning-days.ps1`, which creates one dated commit for each learning day and pushes the result to `origin`.
