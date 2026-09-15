@@ -17,7 +17,7 @@ Copy `.env.example` to `.env` and set `OPENAI_API_KEY`. Keep the `.env` file loc
 Run the application:
 
 ```powershell
-streamlit run streamlit_app.py
+py -m streamlit run streamlit_app.py
 ```
 
 ## Project structure
